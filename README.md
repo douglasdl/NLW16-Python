@@ -1,4 +1,5 @@
 # NLW16 - Journey
+
 Trilha Python
 
 <p align="center">
@@ -25,23 +26,24 @@ Trilha Python
 ## 🚀 Technologies
 
 This project was developped using the following technologies:
+
 <p alight="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></a>
+    <a href="https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a>
+    <a href="https://www.sqlite.org/index.html"><img height="40" src="https://douglasdl.github.io/images/SQLite3.png"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 📚 Libraries
+
 - [Google Fonts](https://fonts.google.com/)
 - [Day.js](https://day.js.org/)
 
 🛠 Utilities
-- Images
-[Ramdom Photos](http://lorempixel.com/150/150/people/)
-[Clippy CSS](https://bennettfeely.com/clippy/)
+
+- Databases
+  [DBeaver](hhttps://dbeaver.io/)
+  [Git](https://git-scm.com/)
 
 ## 📐 Project
 
@@ -54,6 +56,7 @@ Check the project online [here](https://douglasdl.github.io/NLW16-Python/index.h
 The basic layout project can be accessed in [this link](https://www.figma.com/design/sY04E2s0FLhZU4wsdCBE3w/NLW-Journey-%E2%80%A2-Roteiro-de-Viagem?node-id=0-1&t=ZrUmpZJmqO76cS9O-0) in your [Figma](https://figma.com) account.
 
 ## 💻 IDE
+
 This project was done using [Visual Studio Code](https://code.visualstudio.com/) IDE.
 
 ### 🧩 VS Code Extensions
@@ -65,38 +68,38 @@ This project was done using [Visual Studio Code](https://code.visualstudio.com/)
 
 ### ⚙ VS Code Configuration
 
--   CRTL + SHIFT + P
-    -   settings.json
+- CRTL + SHIFT + P
+  - settings.json
 
 ```json
 {
-    "editor.fontSize": 16,
-    "terminal.integrated.fontSize": 16,
-    "workbench.colorTheme": "Omni",
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.bracketPairColorization.enabled": true,
-    "editor.minimap.enabled": false,
-    "editor.wordWrap": "on",
-    "workbench.editor.tabSizing": "shrink",
-    "explorer.compactFolders": false,
+  "editor.fontSize": 16,
+  "terminal.integrated.fontSize": 16,
+  "workbench.colorTheme": "Omni",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "workbench.editor.tabSizing": "shrink",
+  "explorer.compactFolders": false,
 
-    // formatter
-    "prettier.tabWidth": 2,
-    "prettier.semi": false, 
-    "prettier.singleQuote": true,
-    "prettier.trailingComma": "none", 
-    "prettier.arrowParens": "avoid",
-    "prettier.endOfLine": "auto",
-    "editor.tabSize": 2,
-    "editor.formatOnSave": true,
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "liveServer.settings.donotShowInfoMsg": true,
-    "liveServer.settings.donotVerifyTags": true,
+  // formatter
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.arrowParens": "avoid",
+  "prettier.endOfLine": "auto",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true
 }
 ```
 
