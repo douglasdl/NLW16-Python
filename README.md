@@ -25,7 +25,7 @@ Trilha Python
 
 ## 🚀 Technologies
 
-This project was developped using the following technologies:
+This project was developed using the following technologies:
 
 <p alight="center">
     <a href="https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
@@ -36,20 +36,48 @@ This project was developped using the following technologies:
 
 📚 Libraries
 
-- [Google Fonts](https://fonts.google.com/)
-- [Day.js](https://day.js.org/)
+- [virtualenv](https://pypi.org/project/virtualenv/)
+- [Flask](https://pypi.org/project/Flask/)
 
 🛠 Utilities
 
 - Databases
-  [DBeaver](hhttps://dbeaver.io/)
-  [Git](https://git-scm.com/)
+
+  - [DBeaver](hhttps://dbeaver.io/)
+
+- DevOps
+  - [Git](https://git-scm.com/)
 
 ## 📐 Project
 
 This was the project from the Next Level Week 16th Edition that was presented from JUL/08/2024 ~ JUL/11/2024.
 This project is a web travel plan application to help people to efficiently plan the next trip, invite friends and organize the activities.
 Check the project online [here](https://douglasdl.github.io/NLW16-Python/index.html).
+
+Install the packages:
+
+```sh
+pip3 install virtualenv
+pip3 install Flask
+```
+
+Create the Virtual Environment:
+
+```sh
+python3 -m venv venv
+```
+
+Activate the Virtual Environment to use:
+
+```sh
+. venv/bin/activate
+```
+
+Run the server:
+
+```sh
+python3 run.py
+```
 
 ## 🔖 Layout
 
