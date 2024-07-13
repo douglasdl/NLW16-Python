@@ -46,7 +46,11 @@ This project was developed using the following technologies:
   - [DBeaver](hhttps://dbeaver.io/)
 
 - DevOps
+
   - [Git](https://git-scm.com/)
+
+- API
+  - [Postman](https://www.postman.com/)
 
 ## 📐 Project
 
